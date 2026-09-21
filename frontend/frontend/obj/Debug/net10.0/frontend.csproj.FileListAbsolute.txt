@@ -80,3 +80,4 @@ C:\Users\bibel\OneDrive - Fashion Society\Documents\GitHub\wallet\frontend\front
 C:\Users\bibel\OneDrive - Fashion Society\Documents\GitHub\wallet\frontend\frontend\obj\Debug\net10.0\frontend.pdb
 C:\Users\bibel\OneDrive - Fashion Society\Documents\GitHub\wallet\frontend\frontend\obj\Debug\net10.0\frontend.genruntimeconfig.cache
 C:\Users\bibel\OneDrive - Fashion Society\Documents\GitHub\wallet\frontend\frontend\obj\Debug\net10.0\ref\frontend.dll
+C:\Users\bibel\OneDrive - Fashion Society\Documents\GitHub\wallet\frontend\frontend\obj\Debug\net10.0\frontend.sourcelink.json
